@@ -1,0 +1,30 @@
+header {
+    background-color: rgb(92, 120, 245);
+    width: 799px;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+
+#left_block {
+    background-color: rgb(48, 48, 247);
+    color: white;
+    width: 149px;
+    height: 700px;
+}
+
+#main_block {
+    background-color: rgb(144, 245, 248);
+    text-align: center;
+    color: white;
+    float: right;
+    width: 650px;
+    height: 700px;
+}
+
+#main_block_1 {
+    background-color: rgb(133, 133, 133);
+    float: left;
+    width: 100px;
+    margin: 6.5px;
+}
